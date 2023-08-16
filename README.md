@@ -32,7 +32,3 @@ wordcloud:         $ sudo pip install wordcloud
 ## Usage
 * Dataset path: `./input_data/`
 * Run the code given in ipython notebook `Cust_segmentation_online_retail.ipynb`
-
-## Credit
-
-Code credits for this code go to F. Daniel. I've merely created a wrapper and necessary changes to get people started.
